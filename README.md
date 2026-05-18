@@ -24,9 +24,14 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 - Iron Casing (`ic3:iron_casing`)
 
 ### 🔌 Cables:
-- Copper Cable (`ic3:copper_cable`)
-- Tin Cable (`ic3:tin_cable`)
-- Gold Cable (`ic3:gold_cable`)
+- Tin Cable (`ic3:tin_cable`) — LV, 32 EU/t, loss 0.025 EU/block
+- Copper Cable (`ic3:copper_cable`) — MV, 128 EU/t, loss 0.20 EU/block
+- Iron Cable (`ic3:iron_cable`) — EV, 2048 EU/t, loss 0.025 EU/block
+- Gold Cable (`ic3:gold_cable`) — HV, 512 EU/t, loss 0.40 EU/block
+
+### ⚡ Energy:
+- Creative EU Generator (`ic3:creative_eu_generator`)
+- Energy Collector (`ic3:creative_eu_collector`)
 
 ### 🌳 Rubber Tree:
 - Rubber Wood (`ic3:rubber_wood`) — generates resin holes on one side
