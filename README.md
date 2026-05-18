@@ -51,5 +51,9 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 - Uranium Ore — generates deep underground
 - Rubber Trees — spawn rarely in overworld; more common in swamps, mangrove swamps, and jungles
 
+## Compatibility
+- Forge 52.0.16 required when using OptiFine.
+- Forge 52.1.0+ works without OptiFine.
+
 ## License
 All rights reserved. See [LICENSE.md](LICENSE.md) for details.
