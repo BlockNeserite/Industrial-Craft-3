@@ -12,6 +12,16 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 - Raw Tin (`ic3:raw_tin`)
 - Raw Uranium (`ic3:raw_uranium`)
 - Tin Ingot (`ic3:tin_ingot`)
+- RE Battery (`ic3:re_battery`) — rechargeable, stores 10k EU
+
+### ⛽ Fuel Values (EU per item):
+| Item | EU |
+|---|---|
+| Coal/Charcoal | 4000 |
+| Wooden planks/logs | 750 |
+| Cactus | 120 |
+| Sugar Cane | 120 |
+| Any vanilla furnace fuel | vanilla_value × 2.5
 
 ### 🔨 Plates & Casings:
 - Iron Plate (`ic3:iron_plate`)
@@ -30,6 +40,7 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 - Gold Cable (`ic3:gold_cable`) — HV, 512 EU/t, loss 0.40 EU/block
 
 ### ⚡ Energy:
+- Generator (`ic3:generator`) — burns fuel to produce 10 EU/t, 4000 EU buffer
 - Creative EU Generator (`ic3:creative_eu_generator`)
 - Energy Collector (`ic3:creative_eu_collector`)
 
@@ -50,6 +61,13 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 - Deepslate Tin Ore — generates in deepslate
 - Uranium Ore — generates deep underground
 - Rubber Trees — spawn rarely in overworld; more common in swamps, mangrove swamps, and jungles
+
+### 🔧 Recipes:
+- Generator: 3 Iron Plates + Iron Casing + Furnace
+- RE Battery: 2 Tin Ingots + Redstone + 2 Copper Cables
+- Cables: Cutter + 3 Ingots → 6 cables (shapeless)
+- Forge Hammer: 2 Iron Ingots + Stick
+- Cutter: 3 Iron Ingots + Stick
 
 ## Compatibility
 - Forge 52.0.16 required when using OptiFine.
