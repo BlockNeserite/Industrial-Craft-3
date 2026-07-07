@@ -2,6 +2,9 @@
 IC3 is a remake of original ic2 mod for Forge 1.21.1.
 
 ## Features:
+### ♨️ Machines:
+- Iron Furnace (`ic3:iron_furnace`) — 25% faster smelting, 20% less fuel consumption (1 coal smelts 12 items)
+
 ### ⛏️ Ores:
 - Tin Ore (`ic3:tin_ore`)
 - Deepslate Tin Ore (`ic3:deepslate_tin_ore`)
@@ -22,6 +25,8 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 | Cactus | 120 |
 | Sugar Cane | 120 |
 | Any vanilla furnace fuel | vanilla_value × 2.5
+
+Cactus and Sugar Cane also work as fuel in all furnaces (120 ticks each).
 
 ### 🔨 Plates & Casings:
 - Iron Plate (`ic3:iron_plate`)
@@ -63,6 +68,7 @@ IC3 is a remake of original ic2 mod for Forge 1.21.1.
 - Rubber Trees — spawn rarely in overworld; more common in swamps, mangrove swamps, and jungles
 
 ### 🔧 Recipes:
+- Iron Furnace: 4 Iron Plates + Furnace (ring pattern: top/bot/mid sides)
 - Generator: 3 Iron Plates + Iron Casing + Furnace
 - RE Battery: 2 Tin Ingots + Redstone + 2 Copper Cables
 - Cables: Cutter + 3 Ingots → 6 cables (shapeless)
