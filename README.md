@@ -75,8 +75,8 @@ Cactus and Sugar Cane also work as fuel in all furnaces (120 ticks each).
 - Forge Hammer: 2 Iron Ingots + Stick
 - Cutter: 3 Iron Ingots + Stick
 
-## Compatibility
-- Forge 52.0.16 required when using OptiFine.
+## :exclamation: If game crashes :exclamation:
+- Try different Forge versions 52.0.16-52.1.0 when using OptiFine. I’ve been using Forge 52.0.23 and haven’t experienced any crashes so far.
 - Forge 52.1.0+ works without OptiFine.
 
 ## License
