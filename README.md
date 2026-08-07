@@ -1,3 +1,6 @@
+## ❗Newer versions are on Modrinth❗
+
+
 ### ♨️ Machines:
 - Iron Furnace (`ic3:iron_furnace`) — 25% faster smelting, 20% less fuel consumption (1 coal smelts 12 items)
 - Generator (`ic3:generator`) — burns fuel to produce 10 EU/t, 4000 EU buffer, charges RE batteries in charge slot
