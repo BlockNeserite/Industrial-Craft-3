@@ -1,4 +1,4 @@
-# Industrial Craft 3 (IC3) — License / Лицензия
+# ICRemake (ICR) — License / Лицензия
 
 Copyright © 2026 Block_Neserite. All rights reserved.
 
@@ -7,7 +7,7 @@ Copyright © 2026 Block_Neserite. All rights reserved.
 ## English
 
 ### 1. Definitions
-- **"Mod"** — Industrial Craft 3 (IC3), including all its source code, textures, models, sounds, configurations, and other assets.
+- **"Mod"** — ICRemake (ICR), including all its source code, textures, models, sounds, configurations, and other assets.
 - **"Author"** — the creator and copyright holder of the Mod.
 - **"You"** — any person or entity accessing or using the Mod.
 
@@ -46,7 +46,7 @@ To request permissions or make enquiries, please contact the Author via the proj
 ## Русский
 
 ### 1. Определения
-- **«Мод»** — Industrial Craft 3 (IC3), включая весь исходный код, текстуры, модели, звуки, конфигурации и другие ресурсы.
+- **«Мод»** — ICRemake (ICR), включая весь исходный код, текстуры, модели, звуки, конфигурации и другие ресурсы.
 - **«Автор»** — создатель и правообладатель Мода.
 - **«Вы»** — любое лицо или организация, получающие доступ к Моду или использующие его.
 
